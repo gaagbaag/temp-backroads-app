@@ -13,7 +13,6 @@ function App() {
       <About />
       <Services />
       <Tours />
-      <Footer />
     </>
   );
 }
