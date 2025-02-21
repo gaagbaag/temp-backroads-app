@@ -1,5 +1,3 @@
-import { pageLinks } from "../data";
-
 const PageLink = ({ link, itemClass }) => {
   return (
     <li key={link.id}>
